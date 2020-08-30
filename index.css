@@ -1,0 +1,11 @@
+.tooltip span {
+    visibility: hidden;
+}
+
+.tooltip:hover span {
+    visibility: visible;
+}
+
+.tooltip {
+    border-radius: 40%;
+}
